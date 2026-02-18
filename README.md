@@ -1,4 +1,4 @@
-# Kasa-Sayfas-Projesi
+# Kasa Sayfası Projesi
 Bitirme projesinin bir adımını jira ile yönettim. Ödeme, Satış, İade ekranı oluşturdum.
 
 ## 📸 Sprint Yönetimi & Kanıtlar
